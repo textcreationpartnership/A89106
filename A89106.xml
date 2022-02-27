@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message sent from the city of London, to the King Majesty in the Isle of Wight, declaring their resolution touching the speedy bringing of His Majesty to His royall palace at White-Hall, and the manner thereof. Subscribed by the royall-hearted citizens. Also, the declaration of the Queen of England, concerning Her royall consort King Charles; and Her letter to the Prince of Wales, touching the Earl of Warwick. Agreed upon by the Queens Maiesty, and Her councell at St. Jermins, and published throughout the Kingdome of France.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89106</idno>
+            <idno type="STC">Wing M1904</idno>
+            <idno type="STC">Thomason E469_22</idno>
+            <idno type="STC">ESTC R205467</idno>
+            <idno type="EEBO-CITATION">99864840</idno>
+            <idno type="PROQUEST">99864840</idno>
+            <idno type="VID">162374</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89106)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162374)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E469[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message sent from the city of London, to the King Majesty in the Isle of Wight, declaring their resolution touching the speedy bringing of His Majesty to His royall palace at White-Hall, and the manner thereof. Subscribed by the royall-hearted citizens. Also, the declaration of the Queen of England, concerning Her royall consort King Charles; and Her letter to the Prince of Wales, touching the Earl of Warwick. Agreed upon by the Queens Maiesty, and Her councell at St. Jermins, and published throughout the Kingdome of France.</title>
+                  <author>Vandieu, L.</author>
+               </titleStmt>
+               <extent>[London : s.n.]  </extent>
+               <publicationStmt>
+                  <p>
+                     <name type="place">[2], 6 p.,</name>
+                     <date>4⁰.</date>
+                  </p>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of a letter claiming the Queens support for the treaty with Parliament, dated and signed: Paris 26 Octob. 1648. L. Vandieu. And of news reports regarding negotiations for peace and the royal family.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nou: 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henrietta Maria, --  Queen, consort of Charles I, King of England, 1609-1669.</term>
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162374:1" rendition="simple:additions"/>
+            <p>A MESSAGE SENT From the City of <hi>London,</hi> to the King Majeſty in the Iſle of <hi>Wight,</hi> Declaring their Reſolutions touching the ſpee<g ref="char:EOLhyphen"/>dy bringing of His Majeſty to His Royall Palace at <hi>White-Hall,</hi> and the manner thereof.</p>
+            <p>Subſcribed by the Royall-hearted Citizens.</p>
+            <p>ALSO, The Declaration of the Queen of <hi>England,</hi> concerning Her Royall Conſort King <hi>Charles;</hi> and Her Letter to the Prince of <hi>Wales,</hi> touching the Earl of <hi>WARWICK.</hi>
+            </p>
+            <p>AGreed upon by the Queens Maieſty, and Her Councell a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> St. <hi>Jermins,</hi> and publiſhed throughout the Kingdome of <hi>France.</hi>
+            </p>
+            <figure>
+               <head>M R</head>
+               <figDesc>depiction of Queen Henrietta Maria, wife of King Charles I of England</figDesc>
+            </figure>
+            <figure>
+               <head>C R</head>
+               <figDesc>depiction of King Charles I of England</figDesc>
+            </figure>
+            <p>Printed in the Year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="royal_declaration">
+            <pb facs="tcp:162374:2"/>
+            <pb n="1" facs="tcp:162374:2"/>
+            <head>THE QUEEN OF ENGLANDS Declaration at <hi>Paris</hi> in <hi>France.</hi>
+            </head>
+            <head>Concerning Her Royall Conſort the King of Great <hi>Brittain;</hi> Declaring her Reſolution touching the <hi>Treaty</hi> at <hi>Newport,</hi> and the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> at <hi>Weſtminſter.</hi>
+            </head>
+            <opener>
+               <salute>Endeared Sir,</salute>
+            </opener>
+            <p>VVHereas (with much patience) I have long bedeld the miſeries of your diſtracted <hi>Kingdom,</hi> and finding
+<pb n="2" facs="tcp:162374:3"/>nothing more inſtrumentall for the ſetling of a firme and laſting peace, then the bleſſed <hi>Treaty</hi> now on foot, I therefore thought requiſite, to caſt my thoughts thereon, and to make it the chiefeſt Object of my af<g ref="char:EOLhyphen"/>fections, by indeavouring the propagating thereof in theſe parts, and cleering all ſcruples that may ariſe from the adverſe party, which I find to be many. But ker Majeſty the Queen of Great Brittain, hath decla<g ref="char:EOLhyphen"/>red the ſenſe of her Royall Breaſt, touching the pre<g ref="char:EOLhyphen"/>ſent Work in diſpute between the King and Parlia<g ref="char:EOLhyphen"/>ment, and is pleaſed to caſt a favourable conſtruction thereon; and by reaſon of the many aſperſons laid up<g ref="char:EOLhyphen"/>on her <hi>Majeſty,</hi> repreſenting her as an Enemy to the peace of <hi>England,</hi> after conſultation with her Councel at St. <hi>Jermins,</hi> ſhe reſolved to declare her intentions &amp; determinations to the view of the World, and gave expreſſe command to her Secretary to draw up a De<g ref="char:EOLhyphen"/>claration to be forthwith printed, the heads whereof are theſe.
+<list>
+                  <item>1 <hi>That Her Majesty deſires nothing more then a com<g ref="char:EOLhyphen"/>poſure of all differences betweene, Her dread Soveraigne Lord the King, and his two Houſes of the Parliament of</hi> England <hi>aſsembled at Weſtminster.</hi>
+                  </item>
+                  <item>2 <hi>That Her Majeſty ſhall indeavour the propagating of this preſent Treaty, and deſire a ſpeedy agreement, be<g ref="char:EOLhyphen"/>tween Her Soveraign and His two Houſes, that ſo peace may be eſtabliſhed throughout His Realmes and Domini<g ref="char:EOLhyphen"/>ons.</hi>
+                  </item>
+                  <item>3 <hi>That Her Majesty ſhall indeavour the removing of all Obſtacles that may retard or hinder this preſent work in hand; provided, that She may enjoy the liberty of Her Conſcience for Her Self and Her Family, according to the Articles of both Kingdoms.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="3" facs="tcp:162374:3"/>
+            <p> 
+               <hi>That Her Majeſty may be admitted to come for</hi> Eng<g ref="char:EOLhyphen"/>land <hi>ſo ſoon as the Articles of Agreement are ſigned and that She may be admitted to Her Royall Conſort, in honor, freedom, and ſafety.</hi>
+            </p>
+            <p>Theſe and many other particulars are contained in the ſaid <hi>Declaration,</hi> which is now extant amongſt us, and are very ſatisfactory.</p>
+            <p>We hear that Her Majeſty hath ſent a Letter to the Prince of <hi>Wales,</hi> dehorting him from an Engagement with the Earl of <hi>Warwick,</hi> and to endeavour the ſetling of a peace between the <hi>King</hi> and <hi>Parliament,</hi> and it is hoped he will much incline to the ſaid advice and councell.</p>
+            <p>But here is a rumour, that his Highneſſe hath ſent Propoſitions to the States of <hi>Holland,</hi> purporting His Deſires, for the Dutch Fleer to continue betweene the two Navies, to hinder an Engagement, that ſo the ſtate<g ref="char:EOLhyphen"/>ly Fabrick of his Fathers Shipping may be preſerved and the mutuall League and Covenant between the States and the Crowne of <hi>England</hi> firmly kept and maintained.</p>
+            <p>In a word, Great are our expectations for the Ty<g ref="char:EOLhyphen"/>dings of <hi>peace,</hi> whoſe hearts thirſt after unity and con<g ref="char:EOLhyphen"/>cord, which I deſire may be communicated to him who remaineth,</p>
+            <closer>
+               <signed>Your moſt obliged and devoted friend, <hi>L. VANDIEU.</hi>
+               </signed>
+               <dateline>Paris <date>26 Octob. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:162374:4"/>
+            <head>The laſt Newes from the Treaty.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Commiſſioners proceed according to their Inſtructions, deſiring His <hi>Maj.</hi> to give His Royal Aſſent for the confirming of the <hi>Presbyterian Govern<g ref="char:EOLhyphen"/>ment,</hi> and the aboliſhing of <hi>Biſhops</hi> and <hi>Epiſcopacy</hi> for the future.</p>
+            <p>This motion cauſeth ſome ſcruple to ariſe from His <hi>Majesty,</hi> but after mature deliberation thereupon, re<g ref="char:EOLhyphen"/>turneth a ſatisfactory Anſwer to the <hi>Commiſſioners,</hi> in<g ref="char:EOLhyphen"/>ſomuch that it is conceived, He will give His Royall Word for paſſing the ſaid Bill, according to the time and manner prefixed by both Houſes of <hi>Parliament;</hi> which cauſeth a diſmall frown to proceed from the adverſe party.</p>
+            <p>And His <hi>Majestic</hi> being ſenſible of their preſent diſ<g ref="char:EOLhyphen"/>contents and murmurings, gave expreſſe Command, that <hi>proclamation</hi> ſhould be made throughout the ſaid Iſland, for the preventing of all Inſurrections and com<g ref="char:EOLhyphen"/>motions during the time of the <hi>Treaty,</hi> which was ac<g ref="char:EOLhyphen"/>cordingly done.</p>
+            <p>So that there is great hopes that all Obſtacles will be removed, which may prove prejudiciall to this <hi>Treaty,</hi> or fruſtrate the endeavours and conſultation of the great Councell aſſembled, who are even upon the cloſe of a finall end and Agreement.</p>
+            <p>His <hi>Maieſty</hi> ſaith, that He hath ſome few things to propound to the <hi>Commiſſioners,</hi> which will give great ſatisfaction to His two Houſes, and remove all jealou<g ref="char:EOLhyphen"/>ſies and fears whatſoever from amongſt His liege peo<g ref="char:EOLhyphen"/>ple of <hi>England;</hi> the ſaid <hi>Propoſals</hi> are to be debated at the Councell Table, ſo ſoon as his <hi>Maieſty</hi> hath recei<g ref="char:EOLhyphen"/>ved
+<pb n="5" facs="tcp:162374:4"/>the ſenſe of His two Houſes, to his laſt <hi>Conceſſions</hi> for aboliſhing of <hi>Epiſcopacy.</hi>
+            </p>
+            <p>His Majeſties Counſell hath declared a great liking of this their Soveraigns Reſolution, and in particular, the Biſhop of <hi>London,</hi> who this morning told the <hi>King.</hi> That he had ſeriouſly meditated upon the Originall Grounds of <hi>Presbytery,</hi> and found them conſonant to the Word of God, and agreeable to the ſacred Rules Ordained by the Apoſtles and Evangeliſts in the holy Scriptures, and therefore conceived, that his Majeſty might in honour and conſcience give his Royall Aſ<g ref="char:EOLhyphen"/>ſent for the more fully and firm ſetling of the Dire<g ref="char:EOLhyphen"/>ctory, &amp;c.</p>
+            <p>Theſe condeſcenſions from the pillars of Epiſco<g ref="char:EOLhyphen"/>pacy, doth betoken a happy uniting and concurrence to <hi>Presbytery;</hi> which being once aſſented to, there's no doubt but all other Obſtacles will ſoon be removed, and the ſilver cords of Amity firmly knit, and unite the hearts both of <hi>Prince</hi> and <hi>people,</hi> in peace and tranqui<g ref="char:EOLhyphen"/>lity.</p>
+            <p>We hear that there hath been a late Deſign com<g ref="char:EOLhyphen"/>plotting by the Enemies of <hi>Religion,</hi> againſt the <hi>King</hi> and <hi>Kingdom,</hi> who had conſpired to raiſe a great army throughout the <hi>Kingdom</hi> of <hi>England,</hi> by tendering an Oath of Secreſie, a Party whereof to gather to a head in the Weſt, and ſeverall other parts of the <hi>Kingdome</hi> for the reſcuing his <hi>Maieſty</hi> from the power of the <hi>Parliament,</hi> and to bring him to <hi>London</hi> by force, if they do not condiſcend to his Deſires, and to put moſt of them to the ſword. But by the divine providence of the All-ſeeing <hi>Iehovah,</hi> their Plot is diſcovered, and by his omnipotency quite fruſtrated and prevented.</p>
+            <closer>
+               <dateline>Newport <date>30. Octob. 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <pb n="6" facs="tcp:162374:5"/>
+               <opener>
+                  <dateline>
+                     <date>Tueſday Octob. 31.</date>
+                  </dateline>
+               </opener>
+               <p>Letters from the Weſt ſay, <hi>That it is conceived his Majeſty will go neer to ſign to all the propoſitions upon Friday next, notwithſtanding what hath verbally paſt to the contrary. The Lord Duke of <hi>Rich<g ref="char:EOLhyphen"/>mond,</hi> and the Marquis of <hi>Hartford,</hi> admire his <hi>Maje<g ref="char:EOLhyphen"/>ſties</hi> wiſdome in carrying on this Treaty, and have prote<g ref="char:EOLhyphen"/>sted that they do not know by what Counſell the King go<g ref="char:EOLhyphen"/>verns his actions.</hi>
+               </p>
+               <p>Divers Agents are ſaid to be ſent from the Queen and the Prince to the King, with Letters of great im<g ref="char:EOLhyphen"/>portance. As alſo a meſſage from the City of <hi>London</hi> ſubſcribed by the Royall party, intimating, Their pri<g ref="char:EOLhyphen"/>vate deſign in liſting of new forces, for the advance<g ref="char:EOLhyphen"/>ment of his Majeſties Cauſe, and re-inveſting Him in his Royall Throne; but by an unheard of ſtratageme their deſign is prevented, and their plot revealed.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
